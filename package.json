@@ -1,6 +1,6 @@
 {
   "name": "@ajces/server",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "hyperapp server side render utilities package",
   "main": "dist/server.js",
   "jsnext:main": "src/index.js",
